@@ -1,4 +1,4 @@
-FROM openshift:php
+FROM openshift:php5.6
 
 MAINTAINER Thomas Nabord <thomas.nabord@prestashop.com>
 
