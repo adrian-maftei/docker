@@ -4,7 +4,6 @@ MAINTAINER Mama lu Stefan cel Mare <dontcare@prestashop.com>
 
 ENV PS_VERSION 1.6.1.4
 
-
 ENV PS_LANGUAGE en
 ENV PS_COUNTRY gb
 ENV PS_INSTALL_AUTO 0
