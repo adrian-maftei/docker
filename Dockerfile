@@ -1,4 +1,4 @@
-FROM php5.6
+FROM php
 
 MAINTAINER Thomas Nabord <thomas.nabord@prestashop.com>
 
