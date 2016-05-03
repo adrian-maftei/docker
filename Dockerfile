@@ -1,8 +1,8 @@
 FROM php:5.6-apache
 
-MAINTAINER Thomas Nabord <thomas.nabord@prestashop.com>
+MAINTAINER Mama lu Stefan cel Mare <dontcare@prestashop.com>
 
-ENV PS_VERSION {PS_VERSION}
+ENV PS_VERSION 1.6.1.4
 
 
 ENV PS_LANGUAGE en
